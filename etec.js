@@ -1,0 +1,1 @@
+alert("welcome to my website click OK to continue.");
